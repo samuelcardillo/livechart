@@ -1,0 +1,15 @@
+{
+  "name": "Orobel",
+  "main": "index.html",
+  "version": "0.0.0",
+  "description": "Live feed for chart",
+  "authors": [
+    "Samuel LESPES CARDILLO"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "polymer": "Polymer/Polymer#~1.0.5",
+    "google-chart": "GoogleWebComponents/google-chart#^1.0.0",
+    "iron-ajax": "PolymerElements/iron-ajax#1.0.0"
+  }
+}

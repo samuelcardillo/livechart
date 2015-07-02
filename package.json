@@ -1,0 +1,17 @@
+{
+  "name": "Livechart",
+  "version": "1.0.0",
+  "description": "A simple and quickly done live chart system",
+  "main": "index.html",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0",
+    "mysql": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node liveChart.js"
+  },
+  "author": "Samuel LESPES CARDILLO (@cyberwarfighte1)",
+  "license": "MIT"
+}
